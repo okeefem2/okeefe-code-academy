@@ -50,6 +50,7 @@ Start here if you have little to no experience with coding, especially with web 
 
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 
 https://guide.freecodecamp.org/git/
 
