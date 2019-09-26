@@ -54,7 +54,6 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 
 https://guide.freecodecamp.org/git/
 
-
 https://medium.com/free-code-camp/a-developers-introduction-to-github-1034fa55c0db
 
 ### Understanding the current state of web development
@@ -65,37 +64,41 @@ https://www.youtube.com/playlist?list=PL55RiY5tL51oH-HxUXBHendOUj0BFfnQF
 
 ### HTML/CSS/JavaScript INTRO
 
-
 https://learn.freecodecamp.org/
 ^ Go through the entire Responsive Web Design Certification and Javascript Algorithms and Data Structures Certification path. Please note it doesn't actually take 300 hours to complete these most times
 
-
 If you like reading check out this free book hosted on GitHub, I have read many parts of it and used it as a prep for my interview at my current job, it's great https://github.com/getify/You-Dont-Know-JS
-
 
 Then If you like this form of learning, check out the Frontend Libraries Certification as well all the way through to become familiar with some popular libraries to help with web development.
 
-
 If you prefer completely free youtube vids, use these to help supplement, though if you do MAKE SURE you are following along and actually writing code, these will not be as comprehensive as FreeCodeCamp above, but could be a good 
 
+#### HTML & CSS
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 
+#### Modern JS
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7
 
+#### React and Redux
 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
 
+#### React Context and Hooks
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
+
+#### Unit testing React with Jest
+
+https://www.youtube.com/playlist?list=PLLnpHn493BHEqP3gD1pCJYhxX6v2gBZzj
 
 If you'd rather just drop $12 for a more comprehensive video course check this one out
 
-
 https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
-
 This course goes into detail on SQL Mongo and Node as well as HTML/CSS/JS, so will take longer.
-
 
 ## ADVANCED TRACK
 
