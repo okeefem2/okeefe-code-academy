@@ -62,7 +62,7 @@ This playlist does a good job of introducing what is going on in the web develop
 
 https://www.youtube.com/playlist?list=PL55RiY5tL51oH-HxUXBHendOUj0BFfnQF
 
-### HTML/CSS/JavaScript INTRO
+### Frontend Development
 
 https://learn.freecodecamp.org/
 ^ Go through the entire Responsive Web Design Certification and Javascript Algorithms and Data Structures Certification path. Please note it doesn't actually take 300 hours to complete these most times
@@ -100,9 +100,25 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
 This course goes into detail on SQL Mongo and Node as well as HTML/CSS/JS, so will take longer.
 
-## ADVANCED TRACK
+### Backend Development
 
-Start here if you already are pretty comfortable with HTML/CSS/JS
+#### .Net/C#
+
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa
+
+#### Node
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+
+#### Mongo
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u
+
+## Advanced Track
+
+Go here if you are pretty comfortable with a backend language/framework, a frontent framework and a database
+
+## Putting It All Together, Full Stack Development
 
 It's time to pick a tech stack you want to learn. that means we want to pick a frontend framework and a backend language/framework. There are many out there and I have worked with several.
 
