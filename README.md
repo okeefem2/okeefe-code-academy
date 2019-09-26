@@ -57,6 +57,11 @@ https://guide.freecodecamp.org/git/
 
 https://medium.com/free-code-camp/a-developers-introduction-to-github-1034fa55c0db
 
+### Understanding the current state of web development
+
+This playlist does a good job of introducing what is going on in the web development community right now, and what the different pathways are. Additionally it introduces you to VS Code which is a very powerful and free code editor that I highly recommed you all use and become familiar with.
+
+https://www.youtube.com/playlist?list=PL55RiY5tL51oH-HxUXBHendOUj0BFfnQF
 
 ### HTML/CSS/JavaScript INTRO
 
