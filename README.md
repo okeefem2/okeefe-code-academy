@@ -66,14 +66,30 @@ https://www.youtube.com/playlist?list=PL55RiY5tL51oH-HxUXBHendOUj0BFfnQF
 
 ### Frontend Development
 
+#### For interactive lessons
+
 https://learn.freecodecamp.org/
 ^ Go through the entire Responsive Web Design Certification and Javascript Algorithms and Data Structures Certification path. Please note it doesn't actually take 300 hours to complete these most times
+
+These lessons will teach you the fundamentals of HTML, CSS and Javscript. The lessons generally present an idea, and then have you use the idea in an online code editor in order to pass the lesson. At the end of each section there is usually a project to complete
+
+#### For follow along video courses
+
+I really like Udemy. There are a lot of really good courses that you can buy on sale for $10-$20, note that sometimes the prices are higher (in the hundreds) But if you just wait, or google Udemy coupons, you can get them at a much better price.
+
+Here are couple that I would recommend for beginners:
+
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+
+#### For reading a book
 
 If you like reading check out this free book hosted on GitHub, I have read many parts of it and used it as a prep for my interview at my current job, it's great https://github.com/getify/You-Dont-Know-JS
 
 Then If you like this form of learning, check out the Frontend Libraries Certification as well all the way through to become familiar with some popular libraries to help with web development.
 
-If you prefer completely free youtube vids, use these to help supplement, though if you do MAKE SURE you are following along and actually writing code, these will not be as comprehensive as FreeCodeCamp above, but could be a good 
+If you prefer completely free youtube vids, use these playlists to help supplement, though if you do MAKE SURE you are following along and actually writing code, these will not be as comprehensive as FreeCodeCamp above, but could be a good 
 
 #### HTML & CSS
 
@@ -95,12 +111,6 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI
 #### Unit testing React with Jest
 
 https://www.youtube.com/playlist?list=PLLnpHn493BHEqP3gD1pCJYhxX6v2gBZzj
-
-If you'd rather just drop $12 for a more comprehensive video course check this one out
-
-https://www.udemy.com/course/the-complete-web-development-bootcamp/
-
-This course goes into detail on SQL Mongo and Node as well as HTML/CSS/JS, so will take longer.
 
 ### Backend Development
 
@@ -125,6 +135,10 @@ Go here if you are pretty comfortable with a backend language/framework, a front
 It's time to pick a tech stack you want to learn. that means we want to pick a frontend framework and a backend language/framework. There are many out there and I have worked with several.
 
 Here are a few courses I can recommend, let's talk more about this before you start anything though this area is still in progress.
+
+### MERN stack (Mongo, Express, React, Node) - Recommended for first full stack course
+
+https://www.udemy.com/course/node-with-react-fullstack-web-development/
 
 ### Angular and .Net Core
 
