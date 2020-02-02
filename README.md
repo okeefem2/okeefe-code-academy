@@ -43,6 +43,6 @@ Every profession has its tools, and coders need a way to write code. Generally t
 
 TODO link to info about tools and vscode in general...
 
-### HTML/CSS/JavaScript INTRO
+https://www.youtube.com/playlist?list=PL55RiY5tL51oH-HxUXBHendOUj0BFfnQF
 
 The backbone of most web pages/applications is made of HTML CSS and JavaScript.
